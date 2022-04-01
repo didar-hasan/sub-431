@@ -1,0 +1,433 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+header{
+
+overflow: hidden;
+
+margin: auto;
+
+width: 90%;
+
+margin-top: 30px;
+}
+.logo{
+
+width: 20%;
+
+float: left;
+}
+.logo img{
+
+}
+nav{
+
+width: 50%;
+
+float: right;
+}
+nav ul{
+
+list-style: none;
+
+overflow: hidden;
+
+float: right;
+}
+nav ul li{
+
+float: left;
+
+margin-left: 50px;
+}
+nav ul li a{
+    
+text-decoration: none;
+    
+text-transform: uppercase;
+    
+color: #626262;
+}
+.banner{
+
+width: 90%;
+
+margin: auto;
+
+margin-top: 30px;
+}
+.banner img{
+    
+width: 100%;
+}
+.photodairy{
+
+width: 80%;
+
+margin: 50px auto;
+
+overflow: hidden;
+}
+.photodairy h3{
+
+text-transform: 16px;
+
+text-transform: uppercase;
+
+color: #b4ad9e;
+
+font-size: 16px;
+
+font-weight: 500;
+
+margin-top: 15px;
+}
+.photodairy h1{
+
+font-size: 40px;
+
+color: #626262;
+
+margin: 30px 0;
+}
+.photodairy p{
+    
+color: #626262;
+    
+margin-bottom: 30px;
+}
+.lifestyle{
+
+width: 80%;
+
+margin: 50px auto;
+
+overflow: hidden;
+}
+.lifestyle_one{
+
+width: 47%;
+
+float: left;
+}
+.lifestyle_one img{
+    width: 100%;
+}
+.lifestyle_one h3{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+
+font-size: 16px;
+
+font-weight: 500;
+
+margin-top: 15px;
+}
+.lifestyle_one h1{
+
+font-size: 35px;
+
+color: #626262;
+
+margin: 15px 0;
+}
+.lifestyle_one p{
+
+margin-bottom: 30px;
+
+color: #626262;
+}
+
+.lifestyle_two{
+
+width: 47%;
+
+float: right;
+}
+.lifestyle_two img{
+    
+    width: 100%;
+
+}
+.lifestyle_two h3{
+
+color: #b4ad9e;
+
+text-transform: uppercase;
+
+font-size: 16px;
+
+font-weight: 500;
+
+margin-top: 15px;
+}
+.lifestyle_two h1{
+
+color: #626262;
+
+font-size: 35px;
+
+margin: 15px 0;
+
+}
+.lifestyle_two p{
+    
+margin-bottom: 30px;
+    
+color: #626262;
+}
+.photodairy{
+
+}
+.photodairy_three{
+
+width: 47%;
+
+float: left;
+}
+.photodairy_three img{
+
+width: 100%;
+}
+.photodairy_three h3{
+
+}
+.photodairy_three h1{
+
+}
+.photodairy_three p{
+
+}
+
+.photodairy_four{
+
+width: 47%;
+
+float: right;
+}
+.photodairy_four img{
+    width: 100%;
+}
+.photodairy_four h3{
+
+}
+.photodairy_four h1{
+
+}
+.photodairy_four p{
+    
+}
+.newsletter{
+
+background: #f0f0f0;
+
+padding: 80px 0;
+}
+.singup{
+
+width: 40%;
+
+margin: auto;
+}
+
+.singup h1{
+    
+color: #333333;
+    
+font-size: 40px;
+    
+font-weight: 400;
+    
+margin-bottom: 70px;
+}
+
+.singup input{
+    
+width: 100%;
+    
+border: none;
+    
+background: transparent;
+    
+border-bottom: 1px solid #333;
+
+padding-bottom:10px
+}
+.singup input ::placeholder{
+    color:#626262;
+}
+.singup input:focus{
+   
+    outline:none;
+}
+.lifestyle{
+
+}
+.lifestyle_five{
+
+width: 47%;
+
+float: left;
+}
+.lifestyle_five img{width: 100%;}
+.lifestyle_five h3{
+
+color: #b4ad9c;
+
+text-transform: uppercase;
+
+font-size: 16px;
+
+font-weight: 500;
+
+margin-top: 15px;
+}
+.lifestyle_five h1{
+
+font-size: 35px;
+
+color: #626262;
+
+margin: 15px 0;
+}
+.lifestyle_five p{
+
+margin-bottom: 30px;
+
+color: #626262;
+}
+
+.lifestyle_six img{
+
+width: 100%;
+}
+.lifestyle_six h3{
+
+color: #b4ad9c;
+
+text-transform: uppercase;
+
+font-size: 16px;
+
+font-weight: 500;
+
+margin-top: 15px;
+}
+.lifestyle_six h1{
+
+font-size: 35px;
+
+color: #626262;
+
+margin: 15px 0;
+}
+.lifestyle_six p{
+    
+margin-bottom: 30px;
+    
+color: #626262;
+}
+.lifestyle_six{
+    
+width: 47%;
+    
+float: right;
+}
+.loadmore{
+
+padding: 150px 0;
+
+text-align: center;
+}
+.loadmore button{
+    
+padding: 20px;
+    
+border: 1px solid #626262;
+    
+background: transparent;
+    
+font-size: 18px;
+    
+cursor: pointer;
+}
+footer{
+
+background: #f0f0f0;
+
+padding: 30px 0;
+}
+.footer_content{
+
+width: 80%;
+
+margin: auto;
+
+overflow: hidden;
+}
+.term ul{
+
+list-style: none;
+}
+
+.term ul li{
+    
+float: left;
+    
+margin-right: 20px;
+}
+.term ul li a{
+    
+text-decoration: none;
+    
+text-transform: capitalize;
+    
+font-size: 14px;
+    
+color: #000;
+}
+.social_icon ul{
+
+list-style: none;
+
+float: right;
+}
+
+.social_icon ul li{
+    
+float: left;
+    
+margin-left: 17px;
+    
+color: #626262;
+}
+
+.social_icon ul li a{
+    
+color: #626262;
+    
+text-decoration: none;
+    
+float: 14px;
+}
+
+.social_icon{
+    
+width: 30%;
+    
+float: right;
+}
+.term{
+    
+width: 30%;
+    
+float: left;
+}
+
+
+
+
+
